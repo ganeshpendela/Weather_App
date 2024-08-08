@@ -2,6 +2,11 @@
 
 This is a simple weather application built with React and Vite. It allows users to search for weather information by city name using the OpenWeatherMap API.
 
+
+## Live Preview
+[Click here](https://weather-app-lpmv.onrender.com) for a live preview of Weather App, **it takes a minute to load(since deployed in a free server)** .
+
+
 ## Features
 
 - Search for current weather by city name.
